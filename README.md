@@ -42,7 +42,7 @@ This project explores a Brain-Computer Interface pipeline using deep learning. I
 
 ### 1. Clone this repo:
 ```bash
-git clone https://github.com/FreakyOne700/EEG_Image_Generation.git
+git clone https://github.com/Maxprogrammer007/EEG_Image_Gen.git
 cd EEG_Image_Generation
 ```
 
